@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: www.linkedin.com/in/brianna-murel-402302167
-image: /assets/images/me.jpg
+image: assets/images/headshot.jpg
 ---
