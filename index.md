@@ -7,7 +7,7 @@ motto: "tbd."
 
 quick_facts:
   - "🎓 Senior, Computer Science @ Morgan State University"
-  - "🔬 Research: AI-Powered Diaspora Media Hub + NLP & Personalization"
+  - "🔬 Research: AI-Powered Diaspora Media Hub + NLP"
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
