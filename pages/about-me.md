@@ -7,7 +7,7 @@ about:
   name: Brianna Murel
   role: Senior, Computer Science Major at Morgan State University
   image: /assets/images/headshot.jpg
-  linkedin: www.linkedin.com/in/brianna-murel
+  linkedin: https://www.linkedin.com/in/brianna-murel
   bio: |
     I’m currently a senior studying Computer Science at Morgan State University in Baltimore, MD. I expect to graduate Dec 2025.
 
