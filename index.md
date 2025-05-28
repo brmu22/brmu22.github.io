@@ -9,7 +9,7 @@ quick_facts:
   - "🎓 Senior, Computer Science @ Morgan State University"
   - "🔬 Research: AI-Powered Diaspora Media Hub + NLP"
   - "📍 Based in Baltimore, MD"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🚀 Passionate about designing intelligent tools that empower underrepresented voices and drive meaningful change."
 
 linkedin: 
 image: assets/images/headshot.jpg
