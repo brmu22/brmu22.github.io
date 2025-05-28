@@ -3,7 +3,7 @@ layout: home
 title: Brianna Murel
 description: Brianna Murel CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "tbd."
+motto: "Tech with purpose, built for people."
 
 quick_facts:
   - "🎓 Senior, Computer Science @ Morgan State University"
