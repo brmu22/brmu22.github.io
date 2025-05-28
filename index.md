@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Brianna Murel
-description: Brianna Murel CEAMLS SAIRI Summer 2025 Research Website
+description: A computer science student, researcher, and engineer focused on real-world tech solutions for underrepresented communities.
 
 motto: "Tech with purpose, built for people."
 
