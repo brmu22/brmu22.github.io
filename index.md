@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: www.linkedin.com/in/brianna-murel-402302167
+linkedin: 
 image: assets/images/headshot.jpg
 ---
