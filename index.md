@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about designing intelligent tools that empower underrepresented voices and drive meaningful change."
 
-linkedin: 
+linkedin: https://www.linkedin.com/in/brianna-murel
 image: assets/images/headshot.jpg
 ---
