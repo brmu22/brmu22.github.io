@@ -12,5 +12,6 @@ quick_facts:
   - "🚀 Passionate about designing intelligent tools that empower underrepresented voices and drive meaningful change."
 
 linkedin: https://www.linkedin.com/in/brianna-murel
+github: https://github.com/brmu22
 image: assets/images/headshot.jpg
 ---
