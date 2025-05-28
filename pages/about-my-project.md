@@ -3,7 +3,7 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Harnessing AI to Curate, Analyze, and Amplify Global Black Voices
+subtitle: Utilizing AI to Curate, Analyze, and Amplify Global Black Voices
 project_title: "The African Diaspora Media Hub"
 
 problem: |
