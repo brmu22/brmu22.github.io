@@ -25,7 +25,13 @@ layout: default
 
     {% if page.linkedin %}
     <a href="{{ page.linkedin }}" class="about-button" target="_blank">
-      Connect on LinkedIn ↗
+      Connect on LinkedIn 
+    </a>
+    {% endif %}
+    
+    {% if page.github %}
+    <a href="{{ page.github }}" class="about-button" target="_blank">
+      View on GitHub
     </a>
     {% endif %}
   </div>
