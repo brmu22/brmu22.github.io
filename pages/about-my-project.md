@@ -3,13 +3,11 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Harnessing AI to Curate, Analyze, and Amplify Global Black Voices
+project_title: "The African Diaspora Media Hub"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  Despite the vast and diverse media content generated across the African Diaspora, there is a lack of centralized platforms that effectively curate, analyze, and personalize this content for educational, cultural, and social engagement. Existing media hubs often overlook nuanced representations of Black identities and fail to support multilingual accessibility across African and diaspora languages. This fragmentation limits the visibility of underrepresented voices, hinders academic research, and reduces user engagement. There is a need for an intelligent, inclusive platform that leverages AI and machine learning to organize, interpret, and amplify content related to the African Diaspora in a meaningful and accessible way.
 
 approach: |
   The project follows a four-phase pipeline:
@@ -27,10 +25,10 @@ outcome: |
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
+  name: Raisa Nusrat Chowdhury
   linkedin: https://www.linkedin.com/in/jamal-carter
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
+  name: Baruti N. Kopano, Ph.D.
   linkedin: https://www.linkedin.com/in/dr-elijah-freeman
 ---
