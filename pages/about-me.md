@@ -9,22 +9,12 @@ about:
   image: /assets/images/headshot.jpg
   linkedin: www.linkedin.com/in/brianna-murel
   bio: |
-    I’m currently a senior studying Computer Scxience at Morgan State University in Baltimore, MD. I expect to graduate Dec 2025.
-
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, MD. I expect to graduate Dec 2025.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 🏋🏽‍♀️
+      title: Fitness
+      description: I love to get my body moving, whether that's working out in the gym, hiking, or pilates.
 
   gallery:
     - image: /assets/images/me-guitar.png
