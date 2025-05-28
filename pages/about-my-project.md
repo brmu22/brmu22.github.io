@@ -12,23 +12,23 @@ problem: |
 approach: |
   The project follows a four-phase pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
+  - Aggregate news, podcasts, videos, and social media content related to the African Diaspora using web scraping tools and APIs.
+  - Use Natural Language Processing (NLP) techniques to organize and tag media content by theme, sentiment, region, and relevance to Black identity and representation.
+  - Train machine learning models for sentiment analysis, content recommendation, transcription, and multilingual translation to enhance accessibility and personalization.
+  - Conduct user testing and feedback collection to refine user experience, ensure content accuracy, and improve the system's performance.
 
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  Open-source tools such as Python (with libraries like NLTK, TensorFlow, and Flask), Hugging Face for NLP models, and React for front-end development will be used to prototype the platform.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  This project will result in a working digital media hub that highlights African diaspora narratives with AI-driven features. It will support multilingual access and offer a user-friendly interface, while giving researchers practical experience in AI, media analysis, and platform development.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
   name: Raisa Nusrat Chowdhury
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  linkedin: https://www.linkedin.com/in/
 
 faculty_mentor:
   name: Baruti N. Kopano, Ph.D.
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  linkedin: https://www.linkedin.com/in/
 ---
