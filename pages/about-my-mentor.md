@@ -19,6 +19,6 @@ faculty_mentor:
   bio: |
     Baruti N. Kopano is a professor in the Department of Multiplatform Production in the School of Global Journalism and Communication. He received his Ph.D. in English (Rhetoric and Linguistics) from Indiana University of Pennsylvania. His research interests include popular culture, Black masculinity, and African Americans in the radio industry. Dr. Kopano recently co-edited Soul Thieves: The Appropriation and Misrepresentation of African American Popular Culture (Palgrave Macmillan, 2015).
     
-    Dr.Kopano enjoys traveling, walking, and listening to music. His most recent international trip was to Senegal and the Gambia in West Africa in 2016 as a participant in the Fulbright-Hays--Group Projects Abroad Program.
+    Dr. Kopano enjoys traveling, walking, and listening to music. His most recent international trip was to Senegal and the Gambia in West Africa in 2016 as a participant in the Fulbright-Hays--Group Projects Abroad Program.
 
 ---
