@@ -4,23 +4,21 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  name: Raisa Nusrat Chowdhury
+  title: Grad Student, Computer Science
+  image: /assets/images/mentor_headshot.jpg
+  website: https://www.linkedin.com/in/raisa-nusrat-chowdhury-48691a1a5/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    tbd
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Baruti N. Kopano, Ph.D.
+  title: Professor, Morgan State University
+  image: /assets/images/faculty_headshot.jpg
+  website: https://www.linkedin.com/in/baruti-kopano-34755a8/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Baruti N. Kopano is a professor in the Department of Multiplatform Production in the School of Global Journalism and Communication. He received his Ph.D. in English (Rhetoric and Linguistics) from Indiana University of Pennsylvania. His research interests include popular culture, Black masculinity, and African Americans in the radio industry. Dr. Kopano recently co-edited Soul Thieves: The Appropriation and Misrepresentation of African American Popular Culture (Palgrave Macmillan, 2015).
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr.Kopano enjoys traveling, walking, and listening to music. His most recent international trip was to Senegal and the Gambia in West Africa in 2016 as a participant in the Fulbright-Hays--Group Projects Abroad Program.
 
 ---
