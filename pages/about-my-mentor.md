@@ -9,7 +9,9 @@ graduate_mentor:
   image: /assets/images/mentor_headshot.jpg
   website: https://www.linkedin.com/in/raisa-nusrat-chowdhury-48691a1a5/
   bio: |
-    tbd
+    Raisa Nusrat Chowdhury has published and presented interdisciplinary research in artificial intelligence and machine learning, with applications spanning urban systems and biomedical domains. Her previous work includes a systematic review on the use of AI in smart cities and the analysis of stress indicators derived from sleep-related parameters. 
+    
+    Her current research focuses on automating caption and concept generation in medical imaging through the use of fine-tuned models and curated multimodal datasets.
 
 faculty_mentor:
   name: Dr. Baruti N. Kopano, Ph.D.
