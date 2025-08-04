@@ -12,17 +12,17 @@ problem: |
 approach: |
   The project follows a four-phase pipeline:
 
-  - Aggregate news, podcasts, videos, and social media content related to the African Diaspora using web scraping tools and APIs.
-  - Use Natural Language Processing (NLP) techniques to organize and tag media content by theme, sentiment, region, and relevance to Black identity and representation.
-  - Train machine learning models for sentiment analysis, content recommendation, transcription, and multilingual translation to enhance accessibility and personalization.
-  - Conduct user testing and feedback collection to refine user experience, ensure content accuracy, and improve the system's performance.
+  - Aggregate news, videos, literature, and research papers centered on the African Diaspora using manual sourcing and structured metadata tagging.
+  - Apply Retrieval-Augmented Generation (RAG) with GPT-4 to generate relevant, theme-aligned summaries and searchable outputs.
+  - Engineer custom prompts to fine-tune GPT responses, enabling context-aware AI interactions tied to cultural and historical significance.
+  - Design and deploy a full-stack web platform using Node.js, MongoDB, HTML/CSS, and JavaScript, delivering an intuitive, AI-enhanced user experience.
 
-  Open-source tools such as Python (with libraries like NLTK, TensorFlow, and Flask), Hugging Face for NLP models, and React for front-end development will be used to prototype the platform.
+  Technologies used include GPT-4 APIs, prompt engineering frameworks, and full-stack development tools to create a scalable, culturally aware platform.
 
 outcome: |
-  This project will result in a working digital media hub that highlights African diaspora narratives with AI-driven features. It will support multilingual access and offer a user-friendly interface, while giving researchers practical experience in AI, media analysis, and platform development.
+  The result is an interactive media hub that allows users to explore AI-generated insights into curated content across the African Diaspora. It supports contextual search, thematic exploration, and user-friendly access to cultural narratives, while offering hands-on experience in prompt engineering, AI retrieval workflows, and full-stack development.
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+final_report_url: https://drive.google.com/file/d/1puPHwLW7VD3YbKe_MatCiWjtD5Cjf2ey/view?usp=sharing
 
 grad_mentor:
   name: Raisa Nusrat Chowdhury
