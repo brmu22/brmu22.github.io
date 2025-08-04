@@ -7,7 +7,7 @@ motto: "Tech with purpose, built for people."
 
 quick_facts:
   - "🎓 Senior, Computer Science @ Morgan State University"
-  - "🔬 Research: AI-Powered Diaspora Media Hub + NLP"
+  - "🔬 Research: AI-Powered Diaspora Media Hub"
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about designing intelligent tools that empower underrepresented voices and drive meaningful change."
 
